@@ -2,7 +2,7 @@
 <p align="center">🚀 Passionate Developer | Open Source Enthusiast | Tech Explorer</p>
 
 <p align="center">
-  <img src="[https://i.ibb.co/4Z5z5SCy/profile.png](https://drive.google.com/file/d/17GgfX6vOkeWkcsaWRW-MlkI9J5qjz5Ql/view?usp=sharing)" width="150" style="border-radius: 50%;" alt="Aniket Dubey"/>
+  <img src="https://drive.google.com/file/d/17GgfX6vOkeWkcsaWRW-MlkI9J5qjz5Ql/view?usp=sharing" width="150" style="border-radius: 50%;" alt="Aniket Dubey"/>
 </p>
 
 ---
